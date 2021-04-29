@@ -1,0 +1,80 @@
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/voice-assistant
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/voice-assistant.deps.json
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/voice-assistant.runtimeconfig.json
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/voice-assistant.runtimeconfig.dev.json
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/voice-assistant.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/ref/voice-assistant.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/voice-assistant.pdb
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/Microsoft.CognitiveServices.Speech.csharp.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-arm/lib/netstandard2.0/Microsoft.CognitiveServices.Speech.csharp.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-arm/native/libMicrosoft.CognitiveServices.Speech.core.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-arm/native/libMicrosoft.CognitiveServices.Speech.extension.codec.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-arm/native/libMicrosoft.CognitiveServices.Speech.extension.kws.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-arm64/lib/netstandard2.0/Microsoft.CognitiveServices.Speech.csharp.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-arm64/native/libMicrosoft.CognitiveServices.Speech.core.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-arm64/native/libMicrosoft.CognitiveServices.Speech.extension.codec.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-arm64/native/libMicrosoft.CognitiveServices.Speech.extension.kws.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-x64/lib/netstandard2.0/Microsoft.CognitiveServices.Speech.csharp.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-x64/native/libMicrosoft.CognitiveServices.Speech.core.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-x64/native/libMicrosoft.CognitiveServices.Speech.extension.codec.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/linux-x64/native/libMicrosoft.CognitiveServices.Speech.extension.kws.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/osx-x64/lib/netstandard2.0/Microsoft.CognitiveServices.Speech.csharp.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/osx-x64/native/libMicrosoft.CognitiveServices.Speech.core.dylib
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.CognitiveServices.Speech.core.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.CognitiveServices.Speech.extension.codec.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.CognitiveServices.Speech.extension.kws.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.CognitiveServices.Speech.core.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.CognitiveServices.Speech.extension.codec.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.CognitiveServices.Speech.extension.kws.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/obj/Debug/net5.0/voice-assistant.csprojAssemblyReference.cache
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/obj/Debug/net5.0/voice-assistant.GeneratedMSBuildEditorConfig.editorconfig
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/obj/Debug/net5.0/voice-assistant.AssemblyInfoInputs.cache
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/obj/Debug/net5.0/voice-assistant.AssemblyInfo.cs
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/obj/Debug/net5.0/voice-assistant.csproj.CoreCompileInputs.cache
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/obj/Debug/net5.0/voice-assistant.csproj.CopyComplete
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/obj/Debug/net5.0/voice-assistant.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/obj/Debug/net5.0/ref/voice-assistant.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/obj/Debug/net5.0/voice-assistant.pdb
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/obj/Debug/net5.0/voice-assistant.genruntimeconfig.cache
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\obj\Debug\net5.0\voice-assistant.csprojAssemblyReference.cache
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\obj\Debug\net5.0\voice-assistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\obj\Debug\net5.0\voice-assistant.AssemblyInfoInputs.cache
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\obj\Debug\net5.0\voice-assistant.AssemblyInfo.cs
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\obj\Debug\net5.0\voice-assistant.csproj.CoreCompileInputs.cache
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\obj\Debug\net5.0\voice-assistant.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\obj\Debug\net5.0\ref\voice-assistant.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\obj\Debug\net5.0\voice-assistant.pdb
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\voice-assistant.exe
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\voice-assistant.deps.json
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\voice-assistant.runtimeconfig.json
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\voice-assistant.runtimeconfig.dev.json
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\voice-assistant.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\ref\voice-assistant.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\voice-assistant.pdb
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\obj\Debug\net5.0\voice-assistant.csproj.CopyComplete
+C:\Users\zoema\OneDrive\Documents\COURS\INFORMATIQUE\ARCHITECTURE .NET\voice-assistant\obj\Debug\net5.0\voice-assistant.genruntimeconfig.cache

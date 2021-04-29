@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYQfIZO0v3iAXRg0ILiAWV7bk6awO1CQ2GN5ts/3VP6Xv69vBtVa9/C3S2TXjXj3zrRR00fHHgajxH8UjicWIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zoema\\OneDrive\\Documents\\COURS\\INFORMATIQUE\\ARCHITECTURE .NET\\voice-assistant\\voice-assistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zoema\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.14.0\\microsoft.cognitiveservices.speech.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/win-x64/publish/voice-assistant.pdb
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/win-x64/publish/clrcompression.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/win-x64/publish/clrjit.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/win-x64/publish/coreclr.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/win-x64/publish/mscordaccore.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/win-x64/publish/Microsoft.CognitiveServices.Speech.core.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/win-x64/publish/Microsoft.CognitiveServices.Speech.extension.codec.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/win-x64/publish/Microsoft.CognitiveServices.Speech.extension.kws.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/win-x64/publish/Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/win-x64/publish/voice-assistant.exe

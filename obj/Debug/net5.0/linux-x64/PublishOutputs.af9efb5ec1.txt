@@ -1,0 +1,5 @@
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/linux-x64/publish/voice-assistant.pdb
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/linux-x64/publish/libMicrosoft.CognitiveServices.Speech.core.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/linux-x64/publish/libMicrosoft.CognitiveServices.Speech.extension.codec.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/linux-x64/publish/libMicrosoft.CognitiveServices.Speech.extension.kws.so
+/home/pixidream/Documents/development/cfa-license/dev/c#/voice-assistant/bin/Debug/net5.0/linux-x64/publish/voice-assistant
